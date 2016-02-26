@@ -1,0 +1,181 @@
+body{
+  height: ;
+  margin: 0px;
+}
+h1{
+  color: black;
+  font-size: 30px;
+  padding: 10px;
+  font-family: inherit;
+  color: white;
+}
+
+header{
+  height: 40px;
+  width: 100%;
+  background-color: white;
+  margin-bottom: 1px;
+}
+ul li a {
+text-decoration: none;
+color: #206040;
+padding: 10px;
+border-radius: 5px;
+}
+ul li a:hover {
+background-color: #E1F0FF;
+text-decoration: underline;
+}
+.sea{
+  position: absolute;
+  right: 90px;
+  top: 30px;
+}
+.bar{
+top: 15px;
+left: 190px;
+position: absolute;
+}
+#nav{
+  display:inline-table;
+}
+.navv{
+  position: absolute;
+  right: 10px;
+  display: block;
+  top: 10px;
+}
+.one{
+  height: 600px;
+  width: 100%;
+  background: #206040;
+  text-align: center;
+  color:  #e6b700;
+}
+#onetext{
+  color: white;
+}
+.break{
+  height: 150px;
+  width: 100%;
+  background-color: ;
+  text-align: center;
+  font-size: 40px;
+}
+.two{
+  height: 600px;
+  width: 100%;
+  background: #206040;
+  text-align: center;
+  color:  #e6b700;
+}
+.art{
+  height: 400px;
+  width: 30%;
+  background: url(../img/artist.jpg);
+  background-size: cover;
+  top: 210px;
+  left: 2.5%;
+  position: absolute;
+}
+.pro{
+  height: 400px;
+  width: 30%;
+  background: url(../img/booking.jpg);
+  background-size: cover;
+  top: 210px;
+  left: 35%;
+  position: absolute;
+}
+.agent{
+  height: 400px;
+  width: 30%;
+  background: url(../img/suit.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 210px;
+  left: 67.5%;
+}
+.ven{
+  height: 400px;
+  width: 45%;
+  background: url(../img/ven.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 960px;
+  left: 3.3%;
+
+}
+.fest{
+  height: 400px;
+  width: 45%;
+  background: url(../img/sas.jpg);
+  background-size: cover;
+  position: absolute;
+  top: 960px;
+  left: 51.6%;
+}
+.phead{
+  text-align: center;
+  color:  #e6b700;
+  font-size: 50px;
+  font-family:serif;
+}
+#intext{
+  text-align: left;
+  font-size: 20px;
+
+}
+.bot{
+  position: absolute;
+  top: 90%;
+  left: 43%;
+}
+/*==artist pg==*/
+
+}
+footer{
+  height: 120px;
+  width: 100%;
+  background-color: white;
+  text-decoration: none;
+
+}
+#copyright{
+  padding-top: 40px;
+  margin-left: 20px;
+  float: left;
+}
+.social{
+  font-size: 30px;
+  position: absolute;
+  bottom: ;
+  left: 45%;
+  padding-top: 22px;
+
+}
+.fa{
+  color: #e6b700;
+  border-radius: 100%;
+  border-color: ;
+  border-style: solid;
+  border: 20px;
+  background-color: #206040;
+  padding: 10px;
+
+}
+.botnav ul li {
+  height: 30px;
+  width: 70px;
+  display:inline;
+  text-decoration: none;
+  right: 200px;
+  top: 1450;
+  float: left;
+  padding-left: 5px;
+}
+.botnav{
+  padding-top: 20px;
+  margin-right: 20px;
+  float: right;
+}

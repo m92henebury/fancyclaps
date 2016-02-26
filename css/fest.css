@@ -1,0 +1,89 @@
+body{
+  height: ;
+  margin: 0px;
+}
+header{
+  height: 40px;
+  width: 100%;
+  background-color: white;
+  padding-bottom: 20px;
+}
+ul li a {
+text-decoration: none;
+color: #206040;
+padding: 10px;
+border-radius: 5px;
+}
+ul li a:hover {
+background-color: #E1F0FF;
+text-decoration: underline;
+}
+.sea{
+  position: absolute;
+  right: 90px;
+  top: 30px;
+}
+.bar{
+top: 15px;
+left: 190px;
+position: absolute;
+}
+#nav{
+  display:inline-table;
+}
+.navv{
+  position: absolute;
+  right: 10px;
+  display: block;
+  top: 10px;
+}
+
+
+
+
+
+footer{
+  height: 120px;
+  width: 100%;
+  background-color: white;
+  text-decoration: none;
+
+}
+#copyright{
+  padding-top: 40px;
+  margin-left: 20px;
+  float: left;
+}
+.social{
+  font-size: 30px;
+  position: absolute;
+  bottom: ;
+  left: 45%;
+  padding-top: 22px;
+
+}
+.fa{
+  color: #e6b700;
+  border-radius: 100%;
+  border-color: ;
+  border-style: solid;
+  border: 20px;
+  background-color: #206040;
+  padding: 10px;
+
+}
+.botnav ul li {
+  height: 30px;
+  width: 70px;
+  display:inline;
+  text-decoration: none;
+  right: 200px;
+  top: 1450;
+  float: left;
+  padding-left: 5px;
+}
+.botnav{
+  padding-top: 20px;
+  margin-right: 20px;
+  float: right;
+}
